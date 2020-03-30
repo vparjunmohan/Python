@@ -7,5 +7,5 @@ def concatList(elementList):
         newStr += i
     return newStr
 
-elementList = input('Enter items for the list seperated by space ')
+elementList = input('Enter items for the list seperated by space: ')
 print(concatList(elementList))
