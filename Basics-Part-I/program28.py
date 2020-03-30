@@ -16,5 +16,7 @@ numbers = [
     ]
 
 for i in numbers:
-    if i % 2 == 0:
+    if i == 237:
+        break
+    elif i % 2 == 0:
         print(i)
