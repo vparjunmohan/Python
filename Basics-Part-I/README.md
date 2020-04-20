@@ -294,8 +294,7 @@ Note : The system time is important for debugging, network information, random n
 
 120. Write a Python program to determine whether variable is defined or not. 
 
-121. Write a Python program to empty a variable without destroying it.   
-  
+121. Write a Python program to empty a variable without destroying it.    
 Sample data: n=20  
 d = {"x":200}  
 Expected Output : 0  
