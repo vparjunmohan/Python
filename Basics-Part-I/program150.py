@@ -1,4 +1,4 @@
-'Python Program for Sum of squares of first n natural numbers.'
+'Python Program for sum of squares of first n natural numbers.'
 
 def squaresum() : 
     sm = 0
