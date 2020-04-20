@@ -1,5 +1,5 @@
 
-## Python basic (Part I) [150 exercises with solution]
+## Python Basic (Part I) [150 exercises with solution]
 
 1. Write a Python program to print the following string in a specific format.
 
