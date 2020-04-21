@@ -60,4 +60,5 @@ word_freq = [word_list.count(n) for n in word_list]
 
 print('String:\n {} \n'.format(string_words))
 print('List:\n {} \n'.format(str(word_list)))
-print('Pairs (Words and Frequencies):\n {}'.format(list(zip(word_list, word_freq))))
+print('Pairs (Words and Frequencies):\n {}'.format(
+    list(zip(word_list, word_freq))))
