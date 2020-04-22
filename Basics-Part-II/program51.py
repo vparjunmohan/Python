@@ -1,23 +1,21 @@
-'''Write a Python program to compute the sum of first n given prime numbers. 
-Input:
-n ( n = 10000). Input 0 to exit the program.
-Input a number (n=10000) to compute the sum:(0 to exit)
-25
-Sum of first 25 prime numbers:
-1060'''
+'Write a Python program to compute the sum of first n given prime numbers.'
 
-MAX = 105000
-print('Input a number (n≤10000) to compute the sum:(0 to exit)')
-is_prime = [True for _ in range(MAX)]
-is_prime[0] = is_prime[1] = False
-for i in range(2, int(MAX ** (1 / 2)) + 1):
-    if is_prime[i]:
-        for j in range(i ** 2, MAX, i):
-            is_prime[j] = False
-primes = [i for i in range(MAX) if is_prime[i]]
-while True:
-    n = int(input())
-    if not n:
-        break
-    print('Sum of first', n, 'prime numbers:')
-    print(sum(primes[:n]))
+def sumOfPrimes(n):
+    prime = [True] * (n + 1)
+    p = 2
+    while p * p <= n:
+        if prime[p] == True:
+            i = p * 2
+            while i <= n:
+                prime[i] = False
+                i += p
+        p += 1
+    sum = 0
+    for i in range(2, n + 1):
+        if(prime[i]):
+            sum += i
+    print('Sum of prime numbers from till {} is {}'.format(n, sum))
+
+
+n = int(input('Enter an integer '))
+sumOfPrimes(n)
