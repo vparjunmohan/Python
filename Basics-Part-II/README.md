@@ -227,9 +227,7 @@ Maximum sum of the said contiguous subsequence:
 
 
 44. There are two circles C1 with radius r1, central coordinate (x1, y1) and C2 with radius r2 and central coordinate (x2, y2).  
-
 Write a Python program to test the followings -  
-
 "C2 is in C1" if C2 is in C1  
 "C1 is in C2" if C1 is in C2  
 "Circumference of C1 and C2 intersect" if circumference of C1 and C2 intersect, and  
