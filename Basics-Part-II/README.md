@@ -22,13 +22,13 @@
 10. Write a Python program to display some information about the OS where the script is running.
 
 11. Write a Python program to check the sum of three elements (each from an array) from three arrays is equal to a target value. Print all those three-element combinations.  
-Sample data: 
-/* 
-X = [10, 20, 20, 20] 
-Y = [10, 20, 30, 40] 
-Z = [10, 30, 40, 20] 
-target = 70
-*/ 
+Sample data:  
+/*  
+X = [10, 20, 20, 20]  
+Y = [10, 20, 30, 40]  
+Z = [10, 30, 40, 20]  
+target = 70  
+*/  
 
 12. Write a Python program to create all possible permutations from a given collection of distinct numbers. 
 
