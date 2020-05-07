@@ -45,7 +45,7 @@ string_maps = {
 "9": "z" 
 }  
 
-14. Write a Python program to add two positive integers without using the '+' operator. 
+14. Write a Python program to add two positive integers without using the '+' operator.   
 Note: Use bit wise operations to add two numbers. 
 
 15. Write a Python program to check the priority of the four operators (+, -, *, /).
@@ -53,19 +53,19 @@ Note: Use bit wise operations to add two numbers.
 16. Write a Python program to get the third side of right angled triangle from two given sides.
 
 17. Write a Python program to get all strobogrammatic numbers that are of length n. 
-A strobogrammatic number is a number whose numeral is rotationally symmetric, so that it appears the same when rotated 180 degrees. In other words, the numeral looks the same right-side up and upside down (e.g., 69, 96, 1001).
-For example,
-Given n = 2, return ["11", "69", "88", "96"].
-Given n = 3, return ['818', '111', '916', '619', '808', '101', '906', '609', '888', '181', '986', '689']. 
+A strobogrammatic number is a number whose numeral is rotationally symmetric, so that it appears the same when rotated 180 degrees. In other words, the numeral looks the same right-side up and upside down (e.g., 69, 96, 1001).  
+For example,  
+Given n = 2, return ["11", "69", "88", "96"].  
+Given n = 3, return ['818', '111', '916', '619', '808', '101', '906', '609', '888', '181', '986', '689'].   
 
 18. Write a Python program to find the median among three given numbers. 
 
 19. Write a Python program to find the value of n where n degrees of number 2 are written sequentially in a line without spaces. 
 
-20. Write a Python program to find the number of zeros at the end of a factorial of a given positive number. 
+20. Write a Python program to find the number of zeros at the end of a factorial of a given positive number.   
 Range of the number(n): (1 = n = 2*109). 
 
-21. Write a Python program to find the number of notes (Sample of notes: 10, 20, 50, 100, 200 and 500 ) against a given amount. 
+21. Write a Python program to find the number of notes (Sample of notes: 10, 20, 50, 100, 200 and 500 ) against a given amount.   
 Range - Number of notes(n) : n (1 = n = 1000000). 
 
 22. Write a Python program to create a sequence where the first four members of the sequence are equal to one, and each successive term of the sequence is equal to the sum of the four previous ones. Find the Nth member of the sequence.
@@ -76,132 +76,132 @@ Range - Number of notes(n) : n (1 = n = 1000000).
 
 25. Write a Python program to find the digits which are absent in a given mobile number.
 
-26. Write a Python program to compute the summation of the absolute difference of all distinct pairs in an given array (non-decreasing order). 
-Sample array: [1, 2, 3]
-Then all the distinct pairs will be:
-1 2
-1 3
-2 3 
+26. Write a Python program to compute the summation of the absolute difference of all distinct pairs in an given array (non-decreasing order).   
+Sample array: [1, 2, 3]  
+Then all the distinct pairs will be:  
+1 2  
+1 3  
+2 3  
 
 27. Write a Python program to find the type of the progression (arithmetic progression/geometric progression) and the next successive member of a given three successive members of a sequence. 
 According to Wikipedia, an arithmetic progression (AP) is a sequence of numbers such that the difference of any two successive members of the sequence is a constant. For instance, the sequence 3, 5, 7, 9, 11, 13, . . . is an arithmetic progression with common difference 2. For this problem, we will limit ourselves to arithmetic progression whose common difference is a non-zero integer.
 On the other hand, a geometric progression (GP) is a sequence of numbers where each term after the first is found by multiplying the previous one by a fixed non-zero number called the common ratio. For example, the sequence 2, 6, 18, 54, . . . is a geometric progression with common ratio 3. For this problem, we will limit ourselves to geometric progression whose common ratio is a non-zero integer. 
 
-28. Write a Python program to print the length of the series and the series from the given 3rd term, 3rd last term and the sum of a series. 
-Sample Data:
-Input third term of the series: 3
-Input 3rd last term: 3
-Sum of the series: 15
-Length of the series: 5
-Series:
-1 2 3 4 5 
+28. Write a Python program to print the length of the series and the series from the given 3rd term, 3rd last term and the sum of a series.   
+Sample Data:  
+Input third term of the series: 3  
+Input 3rd last term: 3  
+Sum of the series: 15  
+Length of the series: 5  
+Series:  
+1 2 3 4 5   
 
 29. Write a Python program to find common divisors between two numbers in a given pair.
 
-30. Write a Python program to reverse the digits of a given number and add it to the original, If the sum is not a palindrome repeat this procedure. 
-Note: A palindrome is a word, number, or other sequence of characters which reads the same backward as forward, such as madam or racecar.
+30. Write a Python program to reverse the digits of a given number and add it to the original, If the sum is not a palindrome repeat this procedure.  
+Note: A palindrome is a word, number, or other sequence of characters which reads the same backward as forward, such as madam or racecar.  
 
-31. Write a python program to find heights of the top three building in descending order from eight given buildings. 
-Input:
-0 = height of building (integer) = 10,000
-Input the heights of eight buildings:
-25
-35
-15
-16
-30
-45
-37
-39
-Heights of the top three buildings:
-45
-39
-37 
+31. Write a python program to find heights of the top three building in descending order from eight given buildings.  
+Input:  
+0 = height of building (integer) = 10,000  
+Input the heights of eight buildings:  
+25  
+35  
+15  
+16  
+30  
+45  
+37  
+39  
+Heights of the top three buildings:  
+45  
+39  
+37  
 
-32. Write a Python program to compute the digit number of sum of two given integers. 
-Input:
-Each test case consists of two non-negative integers x and y which are separated by a space in a line.
-0 = x, y = 1,000,000
-Input two integers(a b):
-5 7
-Sum of two integers a and b.:
-2 
+32. Write a Python program to compute the digit number of sum of two given integers.  
+Input:  
+Each test case consists of two non-negative integers x and y which are separated by a space in a line.  
+0 = x, y = 1,000,000  
+Input two integers(a b):  
+5 7  
+Sum of two integers a and b.:  
+2  
 
 
-33. Write a Python program to check whether three given lengths (integers) of three sides form a right triangle. Print "Yes" if the given sides form a right triangle otherwise print "No". 
-Input:
-Integers separated by a single space.
-1 = length of the side = 1,000
-Input three integers(sides of a triangle)
-8 6 7
-No 
+33. Write a Python program to check whether three given lengths (integers) of three sides form a right triangle. Print "Yes" if the given sides form a right triangle otherwise print "No".  
+Input:  
+Integers separated by a single space.  
+1 = length of the side = 1,000  
+Input three integers(sides of a triangle)  
+8 6 7  
+No  
 
-34. Write a Python program which solve the equation: 
-ax+by=c
-dx+ey=f
-Print the values of x, y where a, b, c, d, e and f are given.
-Input:
-a,b,c,d,e,f separated by a single space.
-(-1,000 = a,b,c,d,e,f = 1,000)
-Input the value of a, b, c, d, e, f:
-5 8 6 7 9 4
-Values of x and y:
--2.000 2.000 
+34. Write a Python program which solve the equation:  
+ax+by=c  
+dx+ey=f  
+Print the values of x, y where a, b, c, d, e and f are given.  
+Input:  
+a,b,c,d,e,f separated by a single space.  
+(-1,000 = a,b,c,d,e,f = 1,000)  
+Input the value of a, b, c, d, e, f:  
+5 8 6 7 9 4  
+Values of x and y:  
+-2.000 2.000  
 
-35. Write a Python program to compute the amount of the debt in n months. The borrowing amount is $100,000 and the loan adds 5% interest of the debt and rounds it to the nearest 1,000 above month by month. 
-Input:
-An integer n (0 = n = 100)
-Input number of months:
-7 Amount of debt: $144000 
+35. Write a Python program to compute the amount of the debt in n months. The borrowing amount is $100,000 and the loan adds 5% interest of the debt and rounds it to the nearest 1,000 above month by month.  
+Input:  
+An integer n (0 = n = 100)  
+Input number of months:  
+7 Amount of debt: $144000   
 
-36. Write a Python program which reads an integer n and find the number of combinations of a,b,c and d (0 = a,b,c,d = 9) where (a + b + c + d) will be equal to n. 
-Input:
-n (1 = n = 50)
-Input the number(n):
-15
-Number of combinations: 592 
+36. Write a Python program which reads an integer n and find the number of combinations of a,b,c and d (0 = a,b,c,d = 9) where (a + b + c + d) will be equal to n.  
+Input:  
+n (1 = n = 50)  
+Input the number(n):  
+15  
+Number of combinations: 592  
 
-37. Write a Python program to print the number of prime numbers which are less than or equal to a given integer. 
-Input:
-n (1 = n = 999,999)
-Input the number(n):
-35
-Number of prime numbers which are less than or equal to n.: 11 
+37. Write a Python program to print the number of prime numbers which are less than or equal to a given integer.  
+Input:  
+n (1 = n = 999,999)  
+Input the number(n):  
+35  
+Number of prime numbers which are less than or equal to n.: 11  
 
-38. Write a program to compute the radius and the central coordinate (x, y) of a circle which is constructed by three given points on the plane surface. 
-Input:
-x1, y1, x2, y2, x3, y3 separated by a single space.
-Input three coordinate of the circle:
-9 3 6 8 3 6
-Radius of the said circle:
-3.358
-Central coordinate (x, y) of the circle:
-6.071 4.643 
+38. Write a program to compute the radius and the central coordinate (x, y) of a circle which is constructed by three given points on the plane surface.  
+Input:  
+x1, y1, x2, y2, x3, y3 separated by a single space.  
+Input three coordinate of the circle:  
+9 3 6 8 3 6  
+Radius of the said circle:  
+3.358  
+Central coordinate (x, y) of the circle:  
+6.071 4.643  
 
-39. Write a Python program to check whether a point (x,y) is in a triangle or not. There is a triangle formed by three points. 
-Input:
-x1,y1,x2,y2,x3,y3,xp,yp separated by a single space.
-Input three coordinate of the circle:
-9 3 6 8 3 6
-Radius of the said circle:
-3.358
-Central coordinate (x, y) of the circle:
-6.071 4.643 
+39. Write a Python program to check whether a point (x,y) is in a triangle or not. There is a triangle formed by three points.  
+Input:  
+x1,y1,x2,y2,x3,y3,xp,yp separated by a single space.  
+Input three coordinate of the circle:  
+9 3 6 8 3 6  
+Radius of the said circle:  
+3.358  
+Central coordinate (x, y) of the circle:  
+6.071 4.643  
 
-40. Write a Python program to compute and print sum of two given integers (more than or equal to zero). If given integers or the sum have more than 80 digits, print "overflow". 
-Input first integer:
-25
-Input second integer:
-22
-Sum of the two integers: 47 
+40. Write a Python program to compute and print sum of two given integers (more than or equal to zero). If given integers or the sum have more than 80 digits, print "overflow".  
+Input first integer:  
+25  
+Input second integer:  
+22  
+Sum of the two integers: 47  
 
-41. Write a Python program that accepts six numbers as input and sorts them in descending order. 
-Input:
-Input consists of six numbers n1, n2, n3, n4, n5, n6 (-100000 = n1, n2, n3, n4, n5, n6 = 100000). The six numbers are separated by a space.
-Input six integers:
-15 30 25 14 35 40
-After sorting the said integers:
-40 35 30 25 15 14 
+41. Write a Python program that accepts six numbers as input and sorts them in descending order.  
+Input:  
+Input consists of six numbers n1, n2, n3, n4, n5, n6 (-100000 = n1, n2, n3, n4, n5, n6 = 100000).  The six numbers are separated by a space.  
+Input six integers:  
+15 30 25 14 35 40  
+After sorting the said integers:  
+40 35 30 25 15 14  
 
 42. Write a Python program to test whether two lines PQ and RS are parallel. The four points are P(x1, y1), Q(x2, y2), R(x3, y3), S(x4, y4). 
 Input:
