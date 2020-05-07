@@ -32,7 +32,7 @@ target = 70
 
 12. Write a Python program to create all possible permutations from a given collection of distinct numbers. 
 
-13. Write a Python program to get all possible two digit letter combinations from a digit (1 to 9) string. 
+13. Write a Python program to get all possible two digit letter combinations from a digit (1 to 9) string.   
 string_maps = {
 "1": "abc",
 "2": "def",
@@ -43,7 +43,7 @@ string_maps = {
 "7": "tuv",
 "8": "wxy",
 "9": "z" 
-} 
+}  
 
 14. Write a Python program to add two positive integers without using the '+' operator. 
 Note: Use bit wise operations to add two numbers. 
@@ -56,7 +56,7 @@ Note: Use bit wise operations to add two numbers.
 A strobogrammatic number is a number whose numeral is rotationally symmetric, so that it appears the same when rotated 180 degrees. In other words, the numeral looks the same right-side up and upside down (e.g., 69, 96, 1001).
 For example,
 Given n = 2, return ["11", "69", "88", "96"].
-Given n = 3, return ['818', '111', '916', '619', '808', '101', '906', '609', '888', '181', '986', '689'] 
+Given n = 3, return ['818', '111', '916', '619', '808', '101', '906', '609', '888', '181', '986', '689']. 
 
 18. Write a Python program to find the median among three given numbers. 
 
