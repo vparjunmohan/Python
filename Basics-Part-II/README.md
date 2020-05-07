@@ -203,340 +203,339 @@ Input six integers:
 After sorting the said integers:  
 40 35 30 25 15 14  
 
-42. Write a Python program to test whether two lines PQ and RS are parallel. The four points are P(x1, y1), Q(x2, y2), R(x3, y3), S(x4, y4). 
-Input:
-x1,y1,x2,y2,x3,y3,xp,yp separated by a single space
-Input x1,y1,x2,y2,x3,y3,xp,yp:
-2 5 6 4 8 3 9 7
-PQ and RS are not parallel 
+42. Write a Python program to test whether two lines PQ and RS are parallel. The four points are P(x1, y1), Q(x2, y2), R(x3, y3), S(x4, y4).  
+Input:  
+x1,y1,x2,y2,x3,y3,xp,yp separated by a single space  
+Input x1,y1,x2,y2,x3,y3,xp,yp:  
+2 5 6 4 8 3 9 7  
+PQ and RS are not parallel   
 
-43. Write a Python program to find the maximum sum of a contiguous subsequence from a given sequence of numbers a1, a2, a3, ... an. A subsequence of one element is also a continuous subsequence. 
-Input:
-You can assume that 1 = n = 5000 and -100000 = ai = 100000.
-Input numbers are separated by a space.
-Input 0 to exit.
-Input number of sequence of numbers you want to input (0 to exit):
-3
-Input numbers:
-2
-4
-6
-Maximum sum of the said contiguous subsequence:
-12 Input number of sequence of numbers you want to input (0 to exit):
-0 
+43. Write a Python program to find the maximum sum of a contiguous subsequence from a given sequence of numbers a1, a2, a3, ... an. A subsequence of one element is also a continuous subsequence.  
+Input:  
+You can assume that 1 = n = 5000 and -100000 = ai = 100000.  
+Input numbers are separated by a space.  
+Input 0 to exit.  
+Input number of sequence of numbers you want to input (0 to exit):  
+3  
+Input numbers:  
+2  
+4  
+6  
+Maximum sum of the said contiguous subsequence:  
+12 Input number of sequence of numbers you want to input (0 to exit):  
+0  
 
 
-44. There are two circles C1 with radius r1, central coordinate (x1, y1) and C2 with radius r2 and central coordinate (x2, y2). 
+44. There are two circles C1 with radius r1, central coordinate (x1, y1) and C2 with radius r2 and central coordinate (x2, y2).  
 
-Write a Python program to test the followings -
+Write a Python program to test the followings -  
 
-"C2 is in C1" if C2 is in C1
-"C1 is in C2" if C1 is in C2
-"Circumference of C1 and C2 intersect" if circumference of C1 and C2 intersect, and
-"C1 and C2 do not overlap" if C1 and C2 do not overlap.
-Input:
-Input numbers (real numbers) are separated by a space.
-Input x1, y1, r1, x2, y2, r2:
-5 6 4 8 7 9
-C1 is in C2 
+"C2 is in C1" if C2 is in C1  
+"C1 is in C2" if C1 is in C2  
+"Circumference of C1 and C2 intersect" if circumference of C1 and C2 intersect, and  
+"C1 and C2 do not overlap" if C1 and C2 do not overlap.  
+Input:  
+Input numbers (real numbers) are separated by a space.  
+Input x1, y1, r1, x2, y2, r2:  
+5 6 4 8 7 9  
+C1 is in C2  
 
-45. Write a Python program to that reads a date (from 2016/1/1 to 2016/12/31) and prints the day of the date. Jan. 1, 2016, is Friday. Note that 2016 is a leap year. 
-Input:
-Two integers m and d separated by a single space in a line, m ,d represent the month and the day.
-Input month and date (separated by a single space):
-5 15
-Name of the date: Sunday 
+45. Write a Python program to that reads a date (from 2016/1/1 to 2016/12/31) and prints the day of the date. Jan. 1, 2016, is Friday. Note that 2016 is a leap year.  
+Input:  
+Two integers m and d separated by a single space in a line, m ,d represent the month and the day.  
+Input month and date (separated by a single space):  
+5 15  
+Name of the date: Sunday  
 
-46. Write a Python program which reads a text (only alphabetical characters and spaces.) and prints two words. The first one is the word which is arise most frequently in the text. The second one is the word which has the maximum number of letters. 
-Note: A word is a sequence of letters which is separated by the spaces. 
+46. Write a Python program which reads a text (only alphabetical characters and spaces.) and prints two words. The first one is the word which is arise most frequently in the text. The second one is the word which has the maximum number of letters.  
+Note: A word is a sequence of letters which is separated by the spaces.   
 
-Input:
-A text is given in a line with following condition:
-a. The number of letters in the text is less than or equal to 1000.
-b. The number of letters in a word is less than or equal to 32.
-c. There is only one word which is arise most frequently in given text.
-d. There is only one word which has the maximum number of letters in given text.
-Input text: Thank you for your comment and your participation.
-Output: your participation. 
+Input:  
+A text is given in a line with following condition:  
+a. The number of letters in the text is less than or equal to 1000.  
+b. The number of letters in a word is less than or equal to 32.  
+c. There is only one word which is arise most frequently in given text.  
+d. There is only one word which has the maximum number of letters in given text.  
+Input text: Thank you for your comment and your participation.  
+Output: your participation.   
 
-47. Write a Python program that reads n digits (given) chosen from 0 to 9 and prints the number of combinations where the sum of the digits equals to another given number (s). Do not use the same digits in a combination. 
-Input:
-Two integers as number of combinations and their sum by a single space in a line. Input 0 0 to exit.
-Input number of combinations and sum, input 0 0 to exit:
-5 6
-2 4
-0 0
-2 
+47. Write a Python program that reads n digits (given) chosen from 0 to 9 and prints the number of combinations where the sum of the digits equals to another given number (s). Do not use the same digits in a combination.  
+Input:  
+Two integers as number of combinations and their sum by a single space in a line. Input 0 0 to exit.  
+Input number of combinations and sum, input 0 0 to exit:  
+5 6  
+2 4  
+0 0  
+2  
 
-48. Write a Python program which reads the two adjoined sides and the diagonal of a parallelogram and check whether the parallelogram is a rectangle or a rhombus. 
-According to Wikipedia-
+48. Write a Python program which reads the two adjoined sides and the diagonal of a parallelogram and check whether the parallelogram is a rectangle or a rhombus.  
+According to Wikipedia-  
 parallelograms: In Euclidean geometry, a parallelogram is a simple (non-self-intersecting) quadrilateral with two pairs of parallel sides. The opposite or facing sides of a parallelogram are of equal length and the opposite angles of a parallelogram are of equal measure.
 rectangles: In Euclidean plane geometry, a rectangle is a quadrilateral with four right angles. It can also be defined as an equiangular quadrilateral, since equiangular means that all of its angles are equal (360°/4 = 90°). It can also be defined as a parallelogram containing a right angle.
-rhombus: In plane Euclidean geometry, a rhombus (plural rhombi or rhombuses) is a simple (non-self-intersecting) quadrilateral whose four sides all have the same length. Another name is equilateral quadrilateral, since equilateral means that all of its sides are equal in length. The rhombus is often called a diamond, after the diamonds suit in playing cards which resembles the projection of an octahedral diamond, or a lozenge, though the former sometimes refers specifically to a rhombus with a 60° angle, and the latter sometimes refers specifically to a rhombus with a 45° angle.
-Input:
-Two adjoined sides and the diagonal.
-1 = ai, bi, ci = 1000, ai + bi > ci
-Input two adjoined sides and the diagonal of a parallelogram (comma separated):
-3,4,5
-This is a rectangle.
+rhombus: In plane Euclidean geometry, a rhombus (plural rhombi or rhombuses) is a simple (non-self-intersecting) quadrilateral whose four sides all have the same length. Another name is equilateral quadrilateral, since equilateral means that all of its sides are equal in length. The rhombus is often called a diamond, after the diamonds suit in playing cards which resembles the projection of an octahedral diamond, or a lozenge, though the former sometimes refers specifically to a rhombus with a 60° angle, and the latter sometimes refers specifically to a rhombus with a 45° angle.  
+Input:  
+Two adjoined sides and the diagonal.  
+1 = ai, bi, ci = 1000, ai + bi > ci  
+Input two adjoined sides and the diagonal of a parallelogram (comma separated):  
+3,4,5  
+This is a rectangle.  
 
-49. Write a Python program to replace a string "Python" with "Java" and "Java" with "Python" in a given string. 
-Input:
-English letters (including single byte alphanumeric characters, blanks, symbols) are given on one line. The length of the input character string is 1000 or less.
-Input a text with two words 'Python' and 'Java'
-Python is popular than Java
-Java is popular than Python
+49. Write a Python program to replace a string "Python" with "Java" and "Java" with "Python" in a given string.  
+Input:  
+English letters (including single byte alphanumeric characters, blanks, symbols) are given on one line. The length of the input character string is 1000 or less.  
+Input a text with two words 'Python' and 'Java'  
+Python is popular than Java  
+Java is popular than Python  
 
-50. Write a Python program to find the difference between the largest integer and the smallest integer which are created by 8 numbers from 0 to 9. The number that can be rearranged shall start with 0 as in 00135668. 
-Input:
-Input an integer created by 8 numbers from 0 to 9.:
-2345
-Difference between the largest and the smallest integer from the given integer:
-3087 
+50. Write a Python program to find the difference between the largest integer and the smallest integer which are created by 8 numbers from 0 to 9. The number that can be rearranged shall start with 0 as in 00135668.  
+Input:  
+Input an integer created by 8 numbers from 0 to 9.:  
+2345  
+Difference between the largest and the smallest integer from the given integer:  
+3087  
 
-51. Write a Python program to compute the sum of first n given prime numbers. 
-Input:
-n ( n = 10000). Input 0 to exit the program.
-Input a number (n=10000) to compute the sum:(0 to exit)
-25
-Sum of first 25 prime numbers:
-1060 
+51. Write a Python program to compute the sum of first n given prime numbers.  
+Input:  
+n ( n = 10000). Input 0 to exit the program.  
+Input a number (n=10000) to compute the sum:(0 to exit)  
+25  
+Sum of first 25 prime numbers:  
+1060  
 
-52. Write a Python program that accept an even number (>=4, Goldbach number) from the user and create a combinations that express the given number as a sum of two prime numbers. Print the number of combinations. 
-Goldbach number: A Goldbach number is a positive even integer that can be expressed as the sum of two odd primes.[4] Since four is the only even number greater than two that requires the even prime 2 in order to be written as the sum of two primes, another form of the statement of Goldbach's conjecture is that all even integers greater than 4 are Goldbach numbers.
-The expression of a given even number as a sum of two primes is called a Goldbach partition of that number. The following are examples of Goldbach partitions for some even numbers:
-6 = 3 + 3
-8 = 3 + 5
-10 = 3 + 7 = 5 + 5
-12 = 7 + 5
-...
-100 = 3 + 97 = 11 + 89 = 17 + 83 = 29 + 71 = 41 + 59 = 47 + 53
-Input an even number (0 to exit):
-100
-Number of combinations: 6 
+52. Write a Python program that accept an even number (>=4, Goldbach number) from the user and create a combinations that express the given number as a sum of two prime numbers. Print the number of combinations.   
+Goldbach number: A Goldbach number is a positive even integer that can be expressed as the sum of two odd primes.[4] Since four is the only even number greater than two that requires the even prime 2 in order to be written as the sum of two primes, another form of the statement of Goldbach's conjecture is that all even integers greater than 4 are Goldbach numbers.  
+The expression of a given even number as a sum of two primes is called a Goldbach partition of that number. The following are examples of Goldbach partitions for some even numbers:  
+6 = 3 + 3  
+8 = 3 + 5  
+10 = 3 + 7 = 5 + 5  
+12 = 7 + 5  
+...  
+100 = 3 + 97 = 11 + 89 = 17 + 83 = 29 + 71 = 41 + 59 = 47 + 53  
+Input an even number (0 to exit):  
+100  
+Number of combinations: 6  
+
+53. if you draw a straight line on a plane, the plane is divided into two regions. For example, if you pull two straight lines in parallel, you get three areas, and if you draw vertically one to the other you get 4 areas.  
+Write a Python program to create maximum number of regions obtained by drawing n given straight lines.  
+Input:  
+(1 = n = 10,000)  
+Input number of straight lines (o to exit):  
+5  
+Number of regions:  
+16  
+
+54. There are four different points on a plane, P(xp,yp), Q(xq, yq), R(xr, yr) and S(xs, ys). Write a Python program to test AB and CD are orthogonal or not.   
+Input:  
+xp,yp, xq, yq, xr, yr, xs and ys are -100 to 100 respectively and each value can be up to 5 digits after the decimal point It is given as a real number including the number of.  
+Output:  
+Output AB and CD are not orthogonal! or AB and CD are orthogonal!.  
+
+55. Write a Python program to sum of all numerical values (positive integers) embedded in a sentence.  
+Write a Python program to create maximum number of regions obtained by drawing n given straight lines.  
+Input:  
+Sentences with positive integers are given over multiple lines. Each line is a character string containing one-byte alphanumeric characters, symbols, spaces, or an empty line. However the input is 80 characters or less per line and the sum is 10,000 or less.  
+Input some text and numeric values ( to exit):  
+Sum of the numeric values: 80  
+None  
+Input some text and numeric values ( to exit):  
+Sum of the numeric values: 17  
+None  
+Input some text and numeric values ( to exit):  
+Sum of the numeric values: 10  
+None  
+
+56. There are 10 vertical and horizontal squares on a plane. Each square is painted blue and green. Blue represents the sea, and green represents the land. When two green squares are in contact with the top and bottom, or right and left, they are said to be ground. The area created by only one green square is called "island". For example, there are five islands in the figure below.  
+Write a Python program to read the mass data and find the number of islands.  
+Input:  
+Input 10 rows of 10 numbers representing green squares (island) as 1 and blue squares (sea) as zeros  
+1100000111  
+1000000111  
+0000000111  
+0010001000  
+0000011100  
+0000111110  
+0001111111  
+1000111110  
+1100011100  
+1110001000  
+Number of islands: 5   
 
 
-53. if you draw a straight line on a plane, the plane is divided into two regions. For example, if you pull two straight lines in parallel, you get three areas, and if you draw vertically one to the other you get 4 areas.
-Write a Python program to create maximum number of regions obtained by drawing n given straight lines. 
-Input:
-(1 = n = 10,000)
-Input number of straight lines (o to exit):
-5
-Number of regions:
-16 
+57. When character are consecutive in a string , it is possible to shorten the character string by replacing the character with a certain rule. For example, in the case of the character string YYYYY, if it is expressed as # 5 Y, it is compressed by one character.  
+Write a Python program to restore the original string by entering the compressed string with this rule. However, the # character does not appear in the restored character string.   
+Note: The original sentences are uppercase letters, lowercase letters, numbers, symbols, less than 100 letters, and consecutive letters are not more than 9 letters.  
+Input:  
+The restored character string for each character on one line.  
+Original text: XY#6Z1#4023  
+XYZZZZZZ1000023  
+Original text: #39+1=1#30  
+999+1=100   
 
-54. There are four different points on a plane, P(xp,yp), Q(xq, yq), R(xr, yr) and S(xs, ys). Write a Python program to test AB and CD are orthogonal or not. 
-Input:
-xp,yp, xq, yq, xr, yr, xs and ys are -100 to 100 respectively and each value can be up to 5 digits after the decimal point It is given as a real number including the number of. Output:
-Output AB and CD are not orthogonal! or AB and CD are orthogonal!. 
-
-55. Write a Python program to sum of all numerical values (positive integers) embedded in a sentence.
-Write a Python program to create maximum number of regions obtained by drawing n given straight lines. 
-Input:
-Sentences with positive integers are given over multiple lines. Each line is a character string containing one-byte alphanumeric characters, symbols, spaces, or an empty line. However the input is 80 characters or less per line and the sum is 10,000 or less.
-Input some text and numeric values ( to exit):
-Sum of the numeric values: 80
-None
-Input some text and numeric values ( to exit):
-Sum of the numeric values: 17
-None
-Input some text and numeric values ( to exit):
-Sum of the numeric values: 10
-None 
-
-56. There are 10 vertical and horizontal squares on a plane. Each square is painted blue and green. Blue represents the sea, and green represents the land. When two green squares are in contact with the top and bottom, or right and left, they are said to be ground. The area created by only one green square is called "island". For example, there are five islands in the figure below.
-Write a Python program to read the mass data and find the number of islands. 
-Input:
-Input 10 rows of 10 numbers representing green squares (island) as 1 and blue squares (sea) as zeros
-1100000111
-1000000111
-0000000111
-0010001000
-0000011100
-0000111110
-0001111111
-1000111110
-1100011100
-1110001000
-Number of islands: 5 
-
-
-57. When character are consecutive in a string , it is possible to shorten the character string by replacing the character with a certain rule. For example, in the case of the character string YYYYY, if it is expressed as # 5 Y, it is compressed by one character.
-Write a Python program to restore the original string by entering the compressed string with this rule. However, the # character does not appear in the restored character string. 
+58. A convex polygon is a simple polygon in which no line segment between two points on the boundary ever goes outside the polygon. Equivalently, it is a simple polygon whose interior is a convex set. In a convex polygon, all interior angles are less than or equal to 180 degrees, while in a strictly convex polygon all interior angles are strictly less than 180 degrees.  
+Write a Python program that compute the area of the polygon . The vertices have the names vertex 1, vertex 2, vertex 3, ... vertex n according to the order of edge connections  
 Note: The original sentences are uppercase letters, lowercase letters, numbers, symbols, less than 100 letters, and consecutive letters are not more than 9 letters.
-Input:
-The restored character string for each character on one line.
-Original text: XY#6Z1#4023
-XYZZZZZZ1000023
-Original text: #39+1=1#30
-999+1=100 
 
-58. A convex polygon is a simple polygon in which no line segment between two points on the boundary ever goes outside the polygon. Equivalently, it is a simple polygon whose interior is a convex set. In a convex polygon, all interior angles are less than or equal to 180 degrees, while in a strictly convex polygon all interior angles are strictly less than 180 degrees.
-Write a Python program that compute the area of the polygon . The vertices have the names vertex 1, vertex 2, vertex 3, ... vertex n according to the order of edge connections 
-Note: The original sentences are uppercase letters, lowercase letters, numbers, symbols, less than 100 letters, and consecutive letters are not more than 9 letters.
+59. Internet search engine giant, such as Google accepts web pages around the world and classify them, creating a huge database. The search engines also analyze the search keywords entered by the user and create inquiries for database search. In both cases, complicated processing is carried out in order to realize efficient retrieval, but basics are all cutting out words from sentences.  
+Write a Python program to cut out words of 3 to 6 characters length from a given sentence not more than 1024 characters.   
+Input:  
+English sentences consisting of delimiters and alphanumeric characters are given on one line.  
+Input a sentence (1024 characters. max.)  
+The quick brown fox  
+3 to 6 characters length of words:  
+The quick brown fox   
 
-59. Internet search engine giant, such as Google accepts web pages around the world and classify them, creating a huge database. The search engines also analyze the search keywords entered by the user and create inquiries for database search. In both cases, complicated processing is carried out in order to realize efficient retrieval, but basics are all cutting out words from sentences.
-Write a Python program to cut out words of 3 to 6 characters length from a given sentence not more than 1024 characters. 
-Input:
-English sentences consisting of delimiters and alphanumeric characters are given on one line.
-Input a sentence (1024 characters. max.)
-The quick brown fox
-3 to 6 characters length of words:
-The quick brown fox 
+60. Arrange integers (0 to 99) as narrow hilltop, as illustrated in Figure 1. Reading such data representing huge, when starting from the top and proceeding according to the next rule to the bottom. Write a Python program that compute the maximum value of the sum of the passing integers.   
+Input:  
+A series of integers separated by commas are given in diamonds. No spaces are included in each line. The input example corresponds to Figure 1. The number of lines of data is less than 100 lines.  
+Output:  
+The maximum value of the sum of integers passing according to the rule on one line.  
+Input the numbers (ctrl+d to exit):  
+8  
+4, 9  
+9, 2, 1  
+3, 8, 5, 5  
+5, 6, 3, 7, 6  
+3, 8, 5, 5  
+9, 2, 1  
+4, 9  
+8  
+Maximum value of the sum of integers passing according to the rule on one line.  
+6  
 
-60. Arrange integers (0 to 99) as narrow hilltop, as illustrated in Figure 1. Reading such data representing huge, when starting from the top and proceeding according to the next rule to the bottom. Write a Python program that compute the maximum value of the sum of the passing integers. 
-Input:
-A series of integers separated by commas are given in diamonds. No spaces are included in each line. The input example corresponds to Figure 1. The number of lines of data is less than 100 lines.
-Output:
-The maximum value of the sum of integers passing according to the rule on one line.
-Input the numbers (ctrl+d to exit):
-8
-4, 9
-9, 2, 1
-3, 8, 5, 5
-5, 6, 3, 7, 6
-3, 8, 5, 5
-9, 2, 1
-4, 9
-8
-Maximum value of the sum of integers passing according to the rule on one line.
-6
+61. Write a Python program to find the number of combinations that satisfy p + q + r + s = n where n is a given number <= 4000 and p, q, r, s in the range of 0 to 1000.  
+Input a positive integer: (ctrl+d to exit)  
+252  
+Number of combinations of a,b,c,d: 273113  
 
-61. Write a Python program to find the number of combinations that satisfy p + q + r + s = n where n is a given number <= 4000 and p, q, r, s in the range of 0 to 1000. 
-Input a positive integer: (ctrl+d to exit)
-252
-Number of combinations of a,b,c,d: 273113
+62. Write a Python program which adds up columns and rows of given table as shown in the specified figure.  
+Input number of rows/columns (0 to exit)  
+4  
+Input cell value:  
+25 69 51 26  
+68 35 29 54  
+54 57 45 63  
+61 68 47 59  
+Result:  
+25 69 51 26 171  
+68 35 29 54 186  
+54 57 45 63 219  
+61 68 47 59 235  
+208 229 172 202 811  
+Input number of rows/columns (0 to exit)  
 
-62. Write a Python program which adds up columns and rows of given table as shown in the specified figure. 
-Input number of rows/columns (0 to exit)
-4
-Input cell value:
-25 69 51 26
-68 35 29 54
-54 57 45 63
-61 68 47 59
-Result:
-25 69 51 26 171
-68 35 29 54 186
-54 57 45 63 219
-61 68 47 59 235
-208 229 172 202 811
-Input number of rows/columns (0 to exit) 
-
-63. Given a list of numbers and a number k, write a Python program to check whether the sum of any two numbers from the list is equal to k or not. 
+63. Given a list of numbers and a number k, write a Python program to check whether the sum of any two numbers from the list is equal to k or not.  
 For example, given [1, 5, 11, 5] and k = 16, return true since 11 + 5 is 16. 
 
-64. In mathematics, a subsequence is a sequence that can be derived from another sequence by deleting some or no elements without changing the order of the remaining elements. For example, the sequence (A,B,D) is a subsequence of (A,B,C,D,E,F) obtained after removal of elements C, E, and F. The relation of one sequence being the subsequence of another is a preorder.
+64. In mathematics, a subsequence is a sequence that can be derived from another sequence by deleting some or no elements without changing the order of the remaining elements. For example, the sequence (A,B,D) is a subsequence of (A,B,C,D,E,F) obtained after removal of elements C, E, and F. The relation of one sequence being the subsequence of another is a preorder.  
 The subsequence should not be confused with substring (A,B,C,D) which can be derived from the above string (A,B,C,D,E,F) by deleting substring (E,F). The substring is a refinement of the subsequence.
-The list of all subsequences for the word "apple" would be "a", "ap", "al", "ae", "app", "apl", "ape", "ale", "appl", "appe", "aple", "apple", "p", "pp", "pl", "pe", "ppl", "ppe", "ple", "pple", "l", "le", "e", "".
-Write a Python program to find the longest word in set of words which is a subsequence of a given string. 
-Sample Output:
-Gren
-exercise 
+The list of all subsequences for the word "apple" would be "a", "ap", "al", "ae", "app", "apl", "ape", "ale", "appl", "appe", "aple", "apple", "p", "pp", "pl", "pe", "ppl", "ppe", "ple", "pple", "l", "le", "e", "".  
+Write a Python program to find the longest word in set of words which is a subsequence of a given string.   
+Sample Output:  
+Gren  
+exercises  
 
-65. From Wikipedia, the free encyclopaedia:
-A happy number is defined by the following process:
-Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers.
-Write a Python program to check whether a number is "happy" or not. 
+65. From Wikipedia, the free encyclopaedia:  
+A happy number is defined by the following process:  
+Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers.  
+Write a Python program to check whether a number is "happy" or not.  
 
 66. From Wikipedia,
-A happy number is defined by the following process:
-Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers.
-Write a Python program to find and print the first 10 happy numbers. 
-Sample Output:
-[1, 7, 10, 13, 19, 23, 28, 31, 32, 44] 
+A happy number is defined by the following process:  
+Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers.  
+Write a Python program to find and print the first 10 happy numbers.  
+Sample Output:  
+[1, 7, 10, 13, 19, 23, 28, 31, 32, 44]  
 
 67. Write a Python program to count the number of prime numbers less than a given non-negative number. 
 
-68. In abstract algebra, a group isomorphism is a function between two groups that sets up a one-to-one correspondence between the elements of the groups in a way that respects the given group operations. If there exists an isomorphism between two groups, then the groups are called isomorphic.
-Two strings are isomorphic if the characters in string A can be replaced to get string B
-Given "foo", "bar", return false.
-Given "paper", "title", return true.
-Write a Python program to check if two given strings are isomorphic to each other or not. 
+68. In abstract algebra, a group isomorphism is a function between two groups that sets up a one-to-one correspondence between the elements of the groups in a way that respects the given group operations. If there exists an isomorphism between two groups, then the groups are called isomorphic.  
+Two strings are isomorphic if the characters in string A can be replaced to get string B  
+Given "foo", "bar", return false.  
+Given "paper", "title", return true.  
+Write a Python program to check if two given strings are isomorphic to each other or not.   
 
-69. Write a Python program to find the longest common prefix string amongst a given array of strings. Return false If there is no common prefix.
+69. Write a Python program to find the longest common prefix string amongst a given array of strings. Return false If there is no common prefix.  
 For Example, longest common prefix of "abcdefgh" and "abcefgh" is "abc". 
 
 70. Write a Python program to reverse only the vowels of a given string. 
 
-71. Write a Python program to check whether a given integer is a palindrome or not. 
+71. Write a Python program to check whether a given integer is a palindrome or not.   
 Note: An integer is a palindrome when it reads the same backward as forward. Negative numbers are not palindromic. 
 
 72. Write a Python program to remove the duplicate elements of a given array of numbers such that each element appear only once and return the new length of the given array. 
 
-73. Write a Python program to calculate the maximum profit from selling and buying values of stock. An array of numbers represent the stock prices in chronological order. 
+73. Write a Python program to calculate the maximum profit from selling and buying values of stock. An array of numbers represent the stock prices in chronological order.  
 For example, given [8, 10, 7, 5, 7, 15], the function will return 10, since the buying value of the stock is 5 dollars and sell value is 15 dollars. 
 
-74. Write a Python program to remove all instances of a given value from a given array of integers and find the length of the new array. 
+74. Write a Python program to remove all instances of a given value from a given array of integers and find the length of the new array.  
 For example, given [8, 10, 7, 5, 7, 15], the function will return 10, since the buying value of the stock is 5 dollars and sell value is 15 dollars.
 
-75. Write a Python program to find the starting and ending position of a given value in a given array of integers, sorted in ascending order. 
-If the target is not found in the array, return [0, 0].
-Input: [5, 7, 7, 8, 8, 8] target value = 8
-Output: [0, 5]
-Input: [1, 3, 6, 9, 13, 14] target value = 4
-Output: [0, 0]
+75. Write a Python program to find the starting and ending position of a given value in a given array of integers, sorted in ascending order.   
+If the target is not found in the array, return [0, 0].  
+Input: [5, 7, 7, 8, 8, 8] target value = 8  
+Output: [0, 5]  
+Input: [1, 3, 6, 9, 13, 14] target value = 4  
+Output: [0, 0]  
 
-76. The price of a given stock on each day is stored in an array.
-Write a Python program to find the maximum profit in one transaction i.e., buy one and sell one share of the stock from the given price value of the said array. You cannot sell a stock before you buy one. 
-Input (Stock price of each day): [224, 236, 247, 258, 259, 225]
-Output: 35
-Explanation:
-236 - 224 = 12
-247 - 224 = 23
-258 - 224 = 34
-259 - 224 = 35
-225 - 224 = 1
-247 - 236 = 11
-258 - 236 = 22
-259 - 236 = 23
-225 - 236 = -11
-258 - 247 = 11
-259 - 247 = 12
-225 - 247 = -22
-259 - 258 = 1
-225 - 258 = -33
-225 - 259 = -3
+76. The price of a given stock on each day is stored in an array.  
+Write a Python program to find the maximum profit in one transaction i.e., buy one and sell one share of the stock from the given price value of the said array. You cannot sell a stock before you buy one.   
+Input (Stock price of each day): [224, 236, 247, 258, 259, 225]  
+Output: 35  
+Explanation:  
+236 - 224 = 12  
+247 - 224 = 23  
+258 - 224 = 34  
+259 - 224 = 35  
+225 - 224 = 1  
+247 - 236 = 11  
+258 - 236 = 22  
+259 - 236 = 23  
+225 - 236 = -11  
+258 - 247 = 11  
+259 - 247 = 12  
+225 - 247 = -22  
+259 - 258 = 1  
+225 - 258 = -33  
+225 - 259 = -3  
 
-77. Write a Python program to print a given N by M matrix of numbers line by line in forward > backwards > forward >... order. 
-Input matrix:
-[[1, 2, 3,4],
-[5, 6, 7, 8],
-[0, 6, 2, 8],
-[2, 3, 0, 2]]
-Output:
-1
-2
-3
-4
-8
-7
-6
-5
-0
-6
-2
-8
-2
-0
-3
+77. Write a Python program to print a given N by M matrix of numbers line by line in forward > backwards > forward >... order.   
+Input matrix:  
+[[1, 2, 3,4],  
+[5, 6, 7, 8],  
+[0, 6, 2, 8],  
+[2, 3, 0, 2]]  
+Output:  
+1  
+2  
+3  
+4  
+8  
+7  
+6  
+5  
+0  
+6  
+2  
+8  
+2  
+0  
+3  
 
 78. Write a Python program to compute the largest product of three integers from a given list of integers. 
 
 79. Write a Python program to find the first missing positive integer that does not exist in a given list. 
 
-80. Write a Python program to randomly generate a list with 10 even numbers between 1 and 100 inclusive. 
+80. Write a Python program to randomly generate a list with 10 even numbers between 1 and 100 inclusive.  
 Note: Use random.sample() to generate a list of random values. 
 
 81. Write a Python program to calculate the median from a list of numbers. 
 
-82. Write a Python program to test whether a given number is symmetrical or not. 
-A number is symmetrical when it is equal of its reverse.
+82. Write a Python program to test whether a given number is symmetrical or not. A number is symmetrical when it is equal of its reverse.
 
 83. Write a Python program that accept a list of numbers and create a list to store the count of negative number in first element and store the sum of positive numbers in second element. 
 
-84. From Wikipedia:
-An isogram (also known as a "nonpattern word") is a logological term for a word or phrase without a repeating letter. It is also used by some people to mean a word or phrase in which each letter appears the same number of times, not necessarily just once. Conveniently, the word itself is an isogram in both senses of the word, making it autological.
+84. From Wikipedia:  
+An isogram (also known as a "nonpattern word") is a logological term for a word or phrase without a repeating letter. It is also used by some people to mean a word or phrase in which each letter appears the same number of times, not necessarily just once. Conveniently, the word itself is an isogram in both senses of the word, making it autological.  
 Write a Python program to check whether a given string is an "isogram" or not. 
 
 85. Write a Python program to count the number of equal numbers from three given integers. 
@@ -551,7 +550,7 @@ Write a Python program to check whether a given string is an "isogram" or not.
 
 90. Write a Python program to count the number of arguments in a given function. 
 
-91. Write a Python program to compute cumulative sum of numbers of a given list. 
+91. Write a Python program to compute cumulative sum of numbers of a given list.  
 Note: Cumulative sum = sum of itself + all previous numbers in the said list.
 
 92. Write a Python program to find the middle character(s) of a given string. If the length of the string is odd return the middle character and return the middle two characters if the string length is even. 
@@ -562,18 +561,18 @@ Note: Cumulative sum = sum of itself + all previous numbers in the said list.
 
 95. Write a Python program to check whether a given number is a narcissistic number or not. 
 If you are a reader of Greek mythology, then you are probably familiar with Narcissus. He was a hunter of exceptional beauty that he died because he was unable to leave a pool after falling in love with his own reflection. That's why I keep myself away from pools these days (kidding).
-In mathematics, he has kins by the name of narcissistic numbers - numbers that can't get enough of themselves. In particular, they are numbers that are the sum of their digits when raised to the power of the number of digits.
-For example, 371 is a narcissistic number; it has three digits, and if we cube each digits 33 + 73 + 13 the sum is 371. Other 3-digit narcissistic numbers are
-153 = 13 + 53 + 33
-370 = 33 + 73 + 03
-407 = 43 + 03 + 73.
-There are also 4-digit narcissistic numbers, some of which are 1634, 8208, 9474 since
-1634 = 14+64+34+44
-8208 = 84+24+04+84
-9474 = 94+44+74+44
-It has been proven that there are only 88 narcissistic numbers (in the decimal system) and that the largest of which is
-115,132,219,018,763,992,565,095,597,973,971,522,401
-has 39 digits.
+In mathematics, he has kins by the name of narcissistic numbers - numbers that can't get enough of themselves. In particular, they are numbers that are the sum of their digits when raised to the power of the number of digits.  
+For example, 371 is a narcissistic number; it has three digits, and if we cube each digits 33 + 73 + 13 the sum is 371. Other 3-digit narcissistic numbers are  
+153 = 13 + 53 + 33  
+370 = 33 + 73 + 03  
+407 = 43 + 03 + 73.  
+There are also 4-digit narcissistic numbers, some of which are 1634, 8208, 9474 since  
+1634 = 14+64+34+44  
+8208 = 84+24+04+84  
+9474 = 94+44+74+44  
+It has been proven that there are only 88 narcissistic numbers (in the decimal system) and that the largest of which is  
+115,132,219,018,763,992,565,095,597,973,971,522,401  
+has 39 digits.  
 
 96. Write a Python program to find the highest and lowest number from a given string of space separated integers. 
 
@@ -587,34 +586,33 @@ has 39 digits.
 
 101. Write a Python program to create a new string with no duplicate consecutive letters from a given string. 
 
-102. Write a Python program to check whether two given lines are parallel or not. 
-Note: Parallel lines are two or more lines that never intersect. Parallel Lines are like railroad tracks that never intersect.
-The General Form of the equation of a straight line is: ax + by = c
-The said straight line is represented in a list as [a, b, c]
-Example of two parallel lines:
-x + 4y = 10 and x + 4y = 14
+102. Write a Python program to check whether two given lines are parallel or not.   
+Note: Parallel lines are two or more lines that never intersect. Parallel Lines are like railroad tracks that never intersect.  
+The General Form of the equation of a straight line is: ax + by = c  
+The said straight line is represented in a list as [a, b, c]  
+Example of two parallel lines:  
+x + 4y = 10 and x + 4y = 14  
 
 103. Write a Python program to create a list of the accumulating sum from a given list. 
 
-104. Write a Python program to check whether a given sequence is linear, quadratic or cubic. 
-Sequences are sets of numbers that are connected in some way.
-Linear sequence:
-A number pattern which increases or decreases by the same amount each time is called a linear sequence. The amount it increases or decreases by is known as the common difference.
-Quadratic sequence:
-In quadratic sequence, the difference between each term increases, or decreases, at a constant rate.
-Cubic sequence:
-Sequences where the 3rd difference are known as cubic sequence.
+104. Write a Python program to check whether a given sequence is linear, quadratic or cubic.  
+Sequences are sets of numbers that are connected in some way.  
+Linear sequence:  
+A number pattern which increases or decreases by the same amount each time is called a linear sequence. The amount it increases or decreases by is known as the common difference.  
+Quadratic sequence:  
+In quadratic sequence, the difference between each term increases, or decreases, at a constant rate.  
+Cubic sequence:  
+Sequences where the 3rd difference are known as cubic sequence.  
 
-105. Write a Python program to test whether a given integer is pandigital number or not. 
-From Wikipedia,
-In mathematics, a pandigital number is an integer that in a given base has among its significant digits each digit used in the base at least once.
-For example,
-1223334444555556666667777777888888889999999990 is a pandigital number in base 10.
-The first few pandigital base 10 numbers are given by:
-1023456789, 1023456798, 1023456879, 1023456897, 1023456978, 1023456987, 1023457689
+105. Write a Python program to test whether a given integer is pandigital number or not.   
+From Wikipedia,  
+In mathematics, a pandigital number is an integer that in a given base has among its significant digits each digit used in the base at least once.  
+For example,  
+1223334444555556666667777777888888889999999990 is a pandigital number in base 10.  
+The first few pandigital base 10 numbers are given by:  
+1023456789, 1023456798, 1023456879, 1023456897, 1023456978, 1023456987, 1023457689  
 
-106. Write a Python program to check whether a given number is Oddish or Evenish. 
-A number is called "Oddish" if the sum of all of its digits is odd, and a number is called "Evenish" if the sum of all of its digits is even.
+106. Write a Python program to check whether a given number is Oddish or Evenish. A number is called "Oddish" if the sum of all of its digits is odd, and a number is called "Evenish" if the sum of all of its digits is even.
 
 107. Write a Python program that takes three integers and check whether the last digit of first number * the last digit of second number = the last digit of third number. 
 
@@ -624,11 +622,11 @@ A number is called "Oddish" if the sum of all of its digits is odd, and a number
 
 110. Write a Python program to check whether two given circles (given center (x,y) and radius) are intersecting. Return true for intersecting otherwise false. 
 
-111. Write a Python program to compute the digit distance between two integers. 
-The digit distance between two numbers is the absolute value of the difference of those numbers.
+111. Write a Python program to compute the digit distance between two integers.   
+The digit distance between two numbers is the absolute value of the difference of those numbers.  
 For example, the distance between 3 and -3 on the number line given by the |3 - (-3) | = |3 + 3 | = 6 units
-Digit distance of 123 and 256 is
-Since |1 - 2| + |2 - 5| + |3 - 6| = 1 + 3 + 3 = 7
+Digit distance of 123 and 256 is  
+Since |1 - 2| + |2 - 5| + |3 - 6| = 1 + 3 + 3 = 7  
 
 112. Write a Python program to reverse all the words which have even length. 
 
